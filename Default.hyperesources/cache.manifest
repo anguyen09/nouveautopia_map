@@ -1,25 +1,24 @@
 CACHE MANIFEST
-#529241413.113475
+#530452644.894157
 
 ../index.html
 HYPE-584.thin.min.js
 HYPE-584.full.min.js
-default_hype_generated_script.js?55691
+default_hype_generated_script.js?87285
 Normal.png
 Normal_D.png
 Normal_C.png
 Normal_B.png
-Normal_A.png
 Normal_E.png
-C_Information.jpg
-BUILDING-D.png
-BUILDING-D_2x.png
-BUILDING-E.png
-BUILDING-E_2x.png
-BUILDING-B.png
-BUILDING-B_2x.png
-BUIDLING-A.png
-BUIDLING-A_2x.png
+BuildingA_pop.png
+BuildingA_pop_2x.png
+BuildingB_pop.png
+BuildingB_pop_2x.png
+BuildingC_pop.png
+BuildingC_pop_2x.png
+BuildingD_pop.png
+BuildingE_pop.png
+Normal_A.png
 PIE.htc
 blank.gif
 
